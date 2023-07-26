@@ -43,6 +43,7 @@ body{
 .menu ul li:first-child + li + li a:hover{
     text-decoration: none;
     color: #3FA752;
+    background-color: #EEE;
 }
 .menu ul li:first-child + li + li + li a:hover{
     text-decoration: none;
