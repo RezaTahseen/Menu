@@ -25,7 +25,6 @@ body{
     color: #fff;
     padding: 16px 24px;
     display: inline-block;
-    transition: 0.5s;
     border-right: 1px solid #fff;
     
 }
@@ -39,21 +38,25 @@ body{
     text-decoration: none;
     color: #9F2C5C;
     background-color:#EEE;
+    transition: 0.5s;
 }
 .menu ul li:first-child + li + li a:hover{
     text-decoration: none;
     color: #3FA752;
     background-color:#EEE;
+    transition: 0.5s;
 }
 .menu ul li:first-child + li + li + li a:hover{
     text-decoration: none;
     color: #77C4EA;
     background-color:#EEE;
+    transition: 0.5s;
 }
 .menu ul li:first-child + li + li + li + li a:hover{
     text-decoration: none;
     color: #353332;
     background-color: #EEE;
+    transition: 0.5s;
 }
 .menu ul li:first-child + li + li + li + li + li  a:hover{
     text-decoration: none;
