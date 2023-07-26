@@ -55,7 +55,7 @@ body{
     color: #353332;
     background-color: #EEE;
 }
-.menu ul li:first-child + li + li + li + li + li  a:hover{
+.menu ul li:first-child + li + li + li + li + li a:hover{
     text-decoration: none;
     color: orangered;
     background-color: #EEE;
