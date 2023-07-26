@@ -12,8 +12,8 @@ body{
 }
 .menu ul{
     list-style: none;
-	text-align: center;
-	margin: 0;
+    text-align: center;
+    margin: 0;
 }
 .menu ul li{
     display: inline-block;
@@ -22,43 +22,41 @@ body{
 }
 .menu ul li a{
     text-decoration: none;
-	color: #fff;
-	padding: 16px 24px;
-	display: inline-block;
-	transition: .5s;
-	border-right: 1px solid #fff;
+    color: #fff;
+    padding: 16px 24px;
+    display: inline-block;
+    transition: 0.5s;
+    border-right: 1px solid #fff;
     
 }
 .menu ul li:first-child a:hover{
     text-decoration: none;
-	color: #105CA5;
+    color: #105CA5;
     background-color:#EEE;
 
 }
 .menu ul li:first-child + li a:hover{
     text-decoration: none;
-	color: #9F2C5C;
+    color: #9F2C5C;
     background-color:#EEE;
 }
-.menu ul li:first-child + li +li a:hover{
+.menu ul li:first-child + li + li a:hover{
     text-decoration: none;
-	color: #3FA752;
+    color: #3FA752;
     background-color:#EEE;
 }
 .menu ul li:first-child + li + li + li a:hover{
     text-decoration: none;
-	color: #77C4EA;
+    color: #77C4EA;
     background-color:#EEE;
 }
 .menu ul li:first-child + li + li + li + li a:hover{
     text-decoration: none;
-	color: #353332;
-    background-color:#EEE;
-
+    color: #353332;
+    background-color: #EEE;
 }
 .menu ul li:first-child + li + li + li + li + li  a:hover{
     text-decoration: none;
-	color: orangered;
-    background-color:#EEE;
-
+    color: orangered;
+    background-color: #EEE;
 }
